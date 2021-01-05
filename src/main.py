@@ -31,4 +31,3 @@ activation1.forward(layer1.output)
 
 print(layer1.output)
 print(activation1.output)
-print(X[5])
